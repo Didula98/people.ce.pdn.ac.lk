@@ -4659,6 +4659,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Secure-Food-Delivery/"
         },
         {
+            "title": "Project Smart Water Tank",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Project-Smart-Water-Tank/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Project-Smart-Water-Tank",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Project-Smart-Water-Tank",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Project-Smart-Water-Tank/"
+        },
+        {
             "title": "Developing image capturing and analysing system using FPGA",
             "category": {
                 "code": "co227",
@@ -9858,6 +9871,19 @@
     ],
     "E/19/087": [
         {
+            "title": "Project Smart Water Tank",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Project-Smart-Water-Tank/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Project-Smart-Water-Tank",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Project-Smart-Water-Tank",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Project-Smart-Water-Tank/"
+        },
+        {
             "title": "Empowering Counselors and Students through Interactive Web and Mobile App",
             "category": {
                 "code": "co227",
@@ -9869,6 +9895,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/"
+        },
+        {
+            "title": "Airline Booking System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Airline-Booking-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Airline-Booking-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Airline-Booking-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Airline-Booking-System/"
         },
         {
             "title": "Baby Developing Tracking System Web Application",
@@ -10149,6 +10188,19 @@
     ],
     "E/19/111": [
         {
+            "title": "smart billing system",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/smart-billing-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-smart-billing-system",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-smart-billing-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/smart-billing-system/"
+        },
+        {
             "title": "ACES Project Fund Requests",
             "category": {
                 "code": "co227",
@@ -10201,6 +10253,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-CO227-A-Simple-Web-or-Mobile-Application-For-A-Gym",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/A-Simple-Web-or-Mobile-Application-For-A-Gym/"
+        },
+        {
+            "title": "Airline Booking System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Airline-Booking-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Airline-Booking-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Airline-Booking-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Airline-Booking-System/"
         },
         {
             "title": "Library Management System Web App",
@@ -10541,6 +10606,19 @@
     ],
     "E/19/193": [
         {
+            "title": "smart billing system",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/smart-billing-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-smart-billing-system",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-smart-billing-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/smart-billing-system/"
+        },
+        {
             "title": "Online Retail System",
             "category": {
                 "code": "co227",
@@ -10864,6 +10942,19 @@
     ],
     "E/19/260": [
         {
+            "title": "Project Smart Water Tank",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Project-Smart-Water-Tank/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Project-Smart-Water-Tank",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Project-Smart-Water-Tank",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Project-Smart-Water-Tank/"
+        },
+        {
             "title": "Empowering Counselors and Students through Interactive Web and Mobile App",
             "category": {
                 "code": "co227",
@@ -10875,6 +10966,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/"
+        },
+        {
+            "title": "Airline Booking System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Airline-Booking-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Airline-Booking-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Airline-Booking-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Airline-Booking-System/"
         },
         {
             "title": "Baby Developing Tracking System Web Application",
@@ -11195,6 +11299,19 @@
         }
     ],
     "E/19/310": [
+        {
+            "title": "smart billing system",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/smart-billing-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-smart-billing-system",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-smart-billing-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/smart-billing-system/"
+        },
         {
             "title": "TecHub help desk ticketing system",
             "category": {
@@ -11610,6 +11727,19 @@
     ],
     "E/19/423": [
         {
+            "title": "Project Smart Water Tank",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Project-Smart-Water-Tank/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Project-Smart-Water-Tank",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Project-Smart-Water-Tank",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Project-Smart-Water-Tank/"
+        },
+        {
             "title": "Developing image capturing and analysing system using FPGA",
             "category": {
                 "code": "co227",
@@ -11638,6 +11768,19 @@
     ],
     "E/19/424": [
         {
+            "title": "Project Smart Water Tank",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Project-Smart-Water-Tank/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Project-Smart-Water-Tank",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Project-Smart-Water-Tank",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Project-Smart-Water-Tank/"
+        },
+        {
             "title": "A Simple Web or Mobile Application For A Gym",
             "category": {
                 "code": "co227",
@@ -11665,6 +11808,19 @@
         }
     ],
     "E/19/426": [
+        {
+            "title": "smart billing system",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/smart-billing-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-smart-billing-system",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-smart-billing-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/smart-billing-system/"
+        },
         {
             "title": "ESCAL Reservations and Borrowing",
             "category": {
@@ -11913,6 +12069,19 @@
         }
     ],
     "E/19/453": [
+        {
+            "title": "smart billing system",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/smart-billing-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-smart-billing-system",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-smart-billing-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/smart-billing-system/"
+        },
         {
             "title": "ESCAL Reservations and Borrowing",
             "category": {
