@@ -4646,19 +4646,6 @@
     ],
     "E/17/083": [
         {
-            "title": "Secure Food Delivery",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Secure-Food-Delivery/",
-            "repo_url": "https://github.com/cepdnaclk/e17-3yp-Secure-Food-Delivery",
-            "page_url": "https://cepdnaclk.github.io/e17-3yp-Secure-Food-Delivery",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Secure-Food-Delivery/"
-        },
-        {
             "title": "Project Smart Water Tank",
             "category": {
                 "code": "3yp",
@@ -4670,6 +4657,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-Project-Smart-Water-Tank",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Project-Smart-Water-Tank/"
+        },
+        {
+            "title": "Secure Food Delivery",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Secure-Food-Delivery/",
+            "repo_url": "https://github.com/cepdnaclk/e17-3yp-Secure-Food-Delivery",
+            "page_url": "https://cepdnaclk.github.io/e17-3yp-Secure-Food-Delivery",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Secure-Food-Delivery/"
         },
         {
             "title": "Developing image capturing and analysing system using FPGA",
@@ -9705,19 +9705,6 @@
     ],
     "E/19/057": [
         {
-            "title": "subclinical mastitis prediction gui",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/subclinical-mastitis-prediction-gui/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-subclinical-mastitis-prediction-gui",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-subclinical-mastitis-prediction-gui",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/subclinical-mastitis-prediction-gui/"
-        },
-        {
             "title": "Baby Developement Tracking System Mobileapplication",
             "category": {
                 "code": "co225",
@@ -9732,6 +9719,19 @@
         }
     ],
     "E/19/060": [
+        {
+            "title": "Automated Hydroponic System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Automated-Hydroponic-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Automated-Hydroponic-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Automated-Hydroponic-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-Hydroponic-System/"
+        },
         {
             "title": "Engineering Education Unit",
             "category": {
@@ -9979,6 +9979,19 @@
     ],
     "E/19/091": [
         {
+            "title": "Pera Ride",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Pera-Ride/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Pera-Ride",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Pera-Ride",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Ride/"
+        },
+        {
             "title": "Library Management System",
             "category": {
                 "code": "co225",
@@ -10214,6 +10227,19 @@
     ],
     "E/19/111": [
         {
+            "title": "Smart Billing System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Billing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Billing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Billing-System/"
+        },
+        {
             "title": "ACES Project Fund Requests",
             "category": {
                 "code": "co227",
@@ -10336,6 +10362,19 @@
         }
     ],
     "E/19/131": [
+        {
+            "title": "Automated Hydroponic System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Automated-Hydroponic-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Automated-Hydroponic-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Automated-Hydroponic-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-Hydroponic-System/"
+        },
         {
             "title": "Engineering Education Unit",
             "category": {
@@ -10494,6 +10533,19 @@
     ],
     "E/19/166": [
         {
+            "title": "Automated Hydroponic System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Automated-Hydroponic-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Automated-Hydroponic-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Automated-Hydroponic-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-Hydroponic-System/"
+        },
+        {
             "title": "A Simple Web or Mobile Application For A Gym",
             "category": {
                 "code": "co227",
@@ -10632,6 +10684,19 @@
     ],
     "E/19/193": [
         {
+            "title": "Smart Billing System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Billing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Billing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Billing-System/"
+        },
+        {
             "title": "Online Retail System",
             "category": {
                 "code": "co227",
@@ -10659,19 +10724,6 @@
         }
     ],
     "E/19/205": [
-        {
-            "title": "subclinical mastitis prediction gui",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/subclinical-mastitis-prediction-gui/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-subclinical-mastitis-prediction-gui",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-subclinical-mastitis-prediction-gui",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/subclinical-mastitis-prediction-gui/"
-        },
         {
             "title": "Baby Developement Tracking System Mobileapplication",
             "category": {
@@ -10715,6 +10767,19 @@
         }
     ],
     "E/19/224": [
+        {
+            "title": "Automated Hydroponic System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Automated-Hydroponic-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Automated-Hydroponic-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Automated-Hydroponic-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-Hydroponic-System/"
+        },
         {
             "title": "ACES Project Fund Requests",
             "category": {
@@ -10771,6 +10836,19 @@
         }
     ],
     "E/19/227": [
+        {
+            "title": "Pera Ride",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Pera-Ride/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Pera-Ride",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Pera-Ride",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Ride/"
+        },
         {
             "title": "School Attendance Management System Mobile Application",
             "category": {
@@ -11036,6 +11114,19 @@
         }
     ],
     "E/19/266": [
+        {
+            "title": "Automated Hydroponic System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Automated-Hydroponic-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Automated-Hydroponic-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Automated-Hydroponic-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-Hydroponic-System/"
+        },
         {
             "title": "Engineering Education Unit",
             "category": {
@@ -11326,6 +11417,19 @@
     ],
     "E/19/310": [
         {
+            "title": "Smart Billing System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Billing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Billing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Billing-System/"
+        },
+        {
             "title": "TecHub help desk ticketing system",
             "category": {
                 "code": "co227",
@@ -11602,6 +11706,19 @@
     ],
     "E/19/405": [
         {
+            "title": "Pera Ride",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Pera-Ride/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Pera-Ride",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Pera-Ride",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Ride/"
+        },
+        {
             "title": "Inventory Management System of Agricultural Biotechnology Centre",
             "category": {
                 "code": "co227",
@@ -11670,19 +11787,6 @@
         }
     ],
     "E/19/409": [
-        {
-            "title": "subclinical mastitis prediction gui",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/subclinical-mastitis-prediction-gui/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-subclinical-mastitis-prediction-gui",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-subclinical-mastitis-prediction-gui",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/subclinical-mastitis-prediction-gui/"
-        },
         {
             "title": "Baby Developement Tracking System Mobileapplication",
             "category": {
@@ -11821,6 +11925,19 @@
         }
     ],
     "E/19/426": [
+        {
+            "title": "Smart Billing System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Billing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Billing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Billing-System/"
+        },
         {
             "title": "ESCAL Reservations and Borrowing",
             "category": {
@@ -12083,6 +12200,19 @@
     ],
     "E/19/453": [
         {
+            "title": "Smart Billing System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Billing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Billing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Billing-System/"
+        },
+        {
             "title": "ESCAL Reservations and Borrowing",
             "category": {
                 "code": "co227",
@@ -12124,19 +12254,6 @@
     ],
     "E/19/455": [
         {
-            "title": "subclinical mastitis prediction gui",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/subclinical-mastitis-prediction-gui/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-subclinical-mastitis-prediction-gui",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-subclinical-mastitis-prediction-gui",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/subclinical-mastitis-prediction-gui/"
-        },
-        {
             "title": "Baby Developement Tracking System Mobileapplication",
             "category": {
                 "code": "co225",
@@ -12151,6 +12268,19 @@
         }
     ],
     "E/19/465": [
+        {
+            "title": "Pera Ride",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Pera-Ride/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Pera-Ride",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Pera-Ride",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Ride/"
+        },
         {
             "title": "Baby Developing Tracking System Web Application",
             "category": {
@@ -12250,6 +12380,19 @@
         }
     ],
     "E/19/495": [
+        {
+            "title": "Pera Ride",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Pera-Ride/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Pera-Ride",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Pera-Ride",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Ride/"
+        },
         {
             "title": "Inventory Management System of Agricultural Biotechnology Centre",
             "category": {
