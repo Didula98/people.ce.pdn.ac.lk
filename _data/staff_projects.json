@@ -144,7 +144,7 @@
         "projects": {}
     },
     "asithab@eng.pdn.ac.lk": {
-        "count": 9,
+        "count": 8,
         "projects": {
             "e16": [
                 {
@@ -254,21 +254,6 @@
                     "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
-                }
-            ],
-            "e18": [
-                {
-                    "title": "machine vision for quality inspection",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/machine-vision-for-quality-inspection/",
-                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-machine-vision-for-quality-inspection",
-                    "page_url": "https://cepdnaclk.github.io/e18-4yp-machine-vision-for-quality-inspection",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/machine-vision-for-quality-inspection/"
                 }
             ]
         }
@@ -675,6 +660,26 @@
             ]
         }
     },
+    "e15383@eng.pdn.ac.lk": {
+        "count": 1,
+        "projects": {
+            "e18": [
+                {
+                    "title": "Machine Vision For Quality Inspection",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Machine-Vision-For-Quality-Inspection/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Machine-Vision-For-Quality-Inspection",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Machine-Vision-For-Quality-Inspection",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Machine-Vision-For-Quality-Inspection/"
+                }
+            ]
+        }
+    },
     "fawzanm@gmail.com": {
         "count": 1,
         "projects": {
@@ -946,7 +951,7 @@
         "projects": {}
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "count": 20,
+        "count": 21,
         "projects": {
             "e16": [
                 {
@@ -1163,6 +1168,19 @@
                 }
             ],
             "e18": [
+                {
+                    "title": "Machine Vision For Quality Inspection",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Machine-Vision-For-Quality-Inspection/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Machine-Vision-For-Quality-Inspection",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Machine-Vision-For-Quality-Inspection",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Machine-Vision-For-Quality-Inspection/"
+                },
                 {
                     "title": "Neuromorphic NoC Architecture for SNNs",
                     "category": {
@@ -1440,7 +1458,7 @@
         }
     },
     "nadeeshaa@eng.pdn.ac.lk": {
-        "count": 2,
+        "count": 1,
         "projects": {
             "e16": [
                 {
@@ -1455,21 +1473,6 @@
                     "page_url": "https://cepdnaclk.github.io/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/"
-                }
-            ],
-            "e18": [
-                {
-                    "title": "machine vision for quality inspection",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/machine-vision-for-quality-inspection/",
-                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-machine-vision-for-quality-inspection",
-                    "page_url": "https://cepdnaclk.github.io/e18-4yp-machine-vision-for-quality-inspection",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/machine-vision-for-quality-inspection/"
                 }
             ]
         }
@@ -1754,7 +1757,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 36,
+        "count": 37,
         "projects": {
             "e16": [
                 {
@@ -2178,6 +2181,19 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-DL-Based-Stereo-Matching-Estimation",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/DL-Based-Stereo-Matching-Estimation/"
+                },
+                {
+                    "title": "Machine Vision For Quality Inspection",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Machine-Vision-For-Quality-Inspection/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Machine-Vision-For-Quality-Inspection",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Machine-Vision-For-Quality-Inspection",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Machine-Vision-For-Quality-Inspection/"
                 },
                 {
                     "title": "Neuromorphic NoC Architecture for SNNs",
