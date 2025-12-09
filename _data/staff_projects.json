@@ -2355,19 +2355,6 @@
             ],
             "e20": [
                 {
-                    "title": "Federated Privacy Aware Network Anomaly Detection",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Federated-Privacy-Aware-Network-Anomaly-Detection/",
-                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-Federated-Privacy-Aware-Network-Anomaly-Detection",
-                    "page_url": "https://cepdnaclk.github.io/e20-4yp-Federated-Privacy-Aware-Network-Anomaly-Detection",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Federated-Privacy-Aware-Network-Anomaly-Detection/"
-                },
-                {
                     "title": "Optimizing Communication Efficiency and Latency in Blockchain Enabled FL Systems",
                     "category": {
                         "code": "4yp",
@@ -2392,6 +2379,19 @@
                     "page_url": "https://cepdnaclk.github.io/e20-4yp-Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs/"
+                },
+                {
+                    "title": "backdoor resilient federated nids",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/backdoor-resilient-federated-nids/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-backdoor-resilient-federated-nids",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-backdoor-resilient-federated-nids",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/backdoor-resilient-federated-nids/"
                 }
             ]
         }
@@ -4079,19 +4079,6 @@
             ],
             "e20": [
                 {
-                    "title": "Federated Privacy Aware Network Anomaly Detection",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Federated-Privacy-Aware-Network-Anomaly-Detection/",
-                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-Federated-Privacy-Aware-Network-Anomaly-Detection",
-                    "page_url": "https://cepdnaclk.github.io/e20-4yp-Federated-Privacy-Aware-Network-Anomaly-Detection",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Federated-Privacy-Aware-Network-Anomaly-Detection/"
-                },
-                {
                     "title": "Optimizing Communication Efficiency and Latency in Blockchain Enabled FL Systems",
                     "category": {
                         "code": "4yp",
@@ -4103,6 +4090,19 @@
                     "page_url": "https://cepdnaclk.github.io/e20-4yp-Optimizing-Communication-Efficiency-and-Latency-in-Blockchain-Enabled-FL-Systems",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Optimizing-Communication-Efficiency-and-Latency-in-Blockchain-Enabled-FL-Systems/"
+                },
+                {
+                    "title": "backdoor resilient federated nids",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/backdoor-resilient-federated-nids/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-backdoor-resilient-federated-nids",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-backdoor-resilient-federated-nids",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/backdoor-resilient-federated-nids/"
                 }
             ]
         }
