@@ -18251,6 +18251,19 @@
     ],
     "E/20/248": [
         {
+            "title": "AI legal chain resolver II",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-legal-chain-resolver-II/",
+            "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
+            "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
+        },
+        {
             "title": "Vescueye",
             "category": {
                 "code": "3yp",
@@ -20137,6 +20150,19 @@
     ],
     "E/20/453": [
         {
+            "title": "AI legal chain resolver II",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-legal-chain-resolver-II/",
+            "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
+            "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
+        },
+        {
             "title": "Vescueye",
             "category": {
                 "code": "3yp",
@@ -20532,6 +20558,19 @@
     ],
     "E/21/096": [
         {
+            "title": "RAID",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RAID/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-RAID",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-RAID",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RAID/"
+        },
+        {
             "title": "PeraVerse Kiosk System",
             "category": {
                 "code": "co227",
@@ -20607,6 +20646,19 @@
     ],
     "E/21/127": [
         {
+            "title": "RAID",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RAID/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-RAID",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-RAID",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RAID/"
+        },
+        {
             "title": "EventStack Event Management System",
             "category": {
                 "code": "co227",
@@ -20667,6 +20719,19 @@
     ],
     "E/21/140": [
         {
+            "title": "RAID",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RAID/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-RAID",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-RAID",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RAID/"
+        },
+        {
             "title": "Online doctor appointment website 2yp",
             "category": {
                 "code": "co227",
@@ -20697,6 +20762,19 @@
     ],
     "E/21/148": [
         {
+            "title": "manikin auscultation",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/manikin-auscultation/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-manikin-auscultation",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-manikin-auscultation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/manikin-auscultation/"
+        },
+        {
             "title": "RFID Hardware and Tag Lifecycle",
             "category": {
                 "code": "co227",
@@ -20711,6 +20789,19 @@
         }
     ],
     "E/21/152": [
+        {
+            "title": "manikin auscultation",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/manikin-auscultation/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-manikin-auscultation",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-manikin-auscultation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/manikin-auscultation/"
+        },
         {
             "title": "RFID Hardware and Tag Lifecycle",
             "category": {
@@ -20860,6 +20951,19 @@
     ],
     "E/21/214": [
         {
+            "title": "manikin auscultation",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/manikin-auscultation/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-manikin-auscultation",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-manikin-auscultation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/manikin-auscultation/"
+        },
+        {
             "title": "RFID Hardware and Tag Lifecycle",
             "category": {
                 "code": "co227",
@@ -20889,6 +20993,19 @@
         }
     ],
     "E/21/220": [
+        {
+            "title": "manikin auscultation",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/manikin-auscultation/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-manikin-auscultation",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-manikin-auscultation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/manikin-auscultation/"
+        },
         {
             "title": "RFID Hardware and Tag Lifecycle",
             "category": {
@@ -21277,6 +21394,19 @@
         }
     ],
     "E/21/363": [
+        {
+            "title": "RAID",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RAID/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-RAID",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-RAID",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RAID/"
+        },
         {
             "title": "PeraVerse Kiosk System",
             "category": {
