@@ -19,6 +19,10 @@
             ]
         }
     },
+    "To be updated": {
+        "count": 0,
+        "projects": {}
+    },
     "a.terhofstede@qut.edu.au": {
         "count": 1,
         "projects": {
@@ -446,21 +450,6 @@
     "biswajithd@eng.pdn.ac.lk": {
         "count": 2,
         "projects": {
-            "e20": [
-                {
-                    "title": "A Hierarchical Hybrid Framework for Intrusion Detection in Network and Application Layers",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers/",
-                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers",
-                    "page_url": "https://cepdnaclk.github.io/e20-4yp-A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers/"
-                }
-            ],
             "e19": [
                 {
                     "title": "Predicting Cybersecurity Attacks Using Compound Analysis with Classification Algorithms",
@@ -474,6 +463,21 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms/"
+                }
+            ],
+            "e20": [
+                {
+                    "title": "A Hierarchical Hybrid Framework for Intrusion Detection in Network and Application Layers",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers/"
                 }
             ]
         }
@@ -515,49 +519,8 @@
         "projects": {}
     },
     "damayanthiherath@eng.pdn.ac.lk": {
-        "count": 26,
+        "count": 25,
         "projects": {
-            "e20": [
-                {
-                    "title": "AI legal chain resolver II",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-legal-chain-resolver-II/",
-                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
-                    "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
-                    "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
-                },
-                {
-                    "title": "metagenomics",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/metagenomics/",
-                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-metagenomics",
-                    "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/"
-                },
-                {
-                    "title": "voice enabled llm agentic construction scheduler",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
-                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
-                    "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
-                }
-            ],
             "e19": [
                 {
                     "title": "Extending the Growing Self Organizing Map for Unsupervised Learning Based Modelling",
@@ -599,19 +562,6 @@
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance/"
                 },
                 {
-                    "title": "Out of domain generalization in Computer Vision",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Out-of-domain-generalization-in-Computer-Vision/",
-                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
-                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Out-of-domain-generalization-in-Computer-Vision/"
-                },
-                {
                     "title": "Solve Issues In Large Code Repositories",
                     "category": {
                         "code": "4yp",
@@ -649,6 +599,47 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models/"
+                }
+            ],
+            "e20": [
+                {
+                    "title": "AI legal chain resolver II",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-legal-chain-resolver-II/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
+                    "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
+                },
+                {
+                    "title": "metagenomics",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/metagenomics/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-metagenomics",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/"
+                },
+                {
+                    "title": "voice enabled llm agentic construction scheduler",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
                 }
             ],
             "e16": [
@@ -1158,6 +1149,26 @@
             ]
         }
     },
+    "e16088@eng.pdn.ac.lk": {
+        "count": 1,
+        "projects": {
+            "e20": [
+                {
+                    "title": "Reducing context switching latency in RTES",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-context-switching-latency-in-RTES/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-context-switching-latency-in-RTES",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-context-switching-latency-in-RTES",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-context-switching-latency-in-RTES/"
+                }
+            ]
+        }
+    },
     "e17058@eng.pdn.ac.lk": {
         "count": 2,
         "projects": {
@@ -1228,6 +1239,10 @@
             ]
         }
     },
+    "e19489@eng.pdn.ac.lk": {
+        "count": 0,
+        "projects": {}
+    },
     "e20254@eng.pdn.ac.lk": {
         "count": 0,
         "projects": {}
@@ -1241,6 +1256,10 @@
         "projects": {}
     },
     "e21148@eng.pdn.ac.lk": {
+        "count": 0,
+        "projects": {}
+    },
+    "e21180@eng.pdn.ac.lk": {
         "count": 0,
         "projects": {}
     },
@@ -1518,41 +1537,17 @@
             ]
         }
     },
+    "isurun@eng.pdn.ac.lk": {
+        "count": 0,
+        "projects": {}
+    },
     "isurunawinne@ce.pdn.ac.lk": {
         "count": 0,
         "projects": {}
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "count": 31,
+        "count": 32,
         "projects": {
-            "e20": [
-                {
-                    "title": "Synthetic Cardiac MRI Image Generation using Deep Generative Models",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
-                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
-                    "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
-                },
-                {
-                    "title": "voice enabled llm agentic construction scheduler",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
-                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
-                    "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
-                }
-            ],
             "e19": [
                 {
                     "title": "AI Dirven Latency Constrained Resource Management In Kubernetes",
@@ -1631,6 +1626,47 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models/"
+                }
+            ],
+            "e20": [
+                {
+                    "title": "Reducing context switching latency in RTES",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-context-switching-latency-in-RTES/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-context-switching-latency-in-RTES",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-context-switching-latency-in-RTES",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-context-switching-latency-in-RTES/"
+                },
+                {
+                    "title": "Synthetic Cardiac MRI Image Generation using Deep Generative Models",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
+                },
+                {
+                    "title": "voice enabled llm agentic construction scheduler",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
                 }
             ],
             "e16": [
@@ -2806,23 +2842,8 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 56,
+        "count": 57,
         "projects": {
-            "e20": [
-                {
-                    "title": "Synthetic Cardiac MRI Image Generation using Deep Generative Models",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
-                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
-                    "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
-                }
-            ],
             "e19": [
                 {
                     "title": "A Behavioural Plugin Tool For Fake News Identification",
@@ -2992,6 +3013,34 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models/"
+                }
+            ],
+            "e20": [
+                {
+                    "title": "Reducing context switching latency in RTES",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-context-switching-latency-in-RTES/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-context-switching-latency-in-RTES",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-context-switching-latency-in-RTES",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-context-switching-latency-in-RTES/"
+                },
+                {
+                    "title": "Synthetic Cardiac MRI Image Generation using Deep Generative Models",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
                 }
             ],
             "e16": [
@@ -3570,26 +3619,6 @@
             ]
         }
     },
-    "ruwan.tennakoon@rmit.edu.au": {
-        "count": 1,
-        "projects": {
-            "e19": [
-                {
-                    "title": "Out of domain generalization in Computer Vision",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Out-of-domain-generalization-in-Computer-Vision/",
-                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
-                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Out-of-domain-generalization-in-Computer-Vision/"
-                }
-            ]
-        }
-    },
     "ruwan@eng.pdn.ac.lk": {
         "count": 1,
         "projects": {
@@ -3697,21 +3726,6 @@
     "sampath@eng.pdn.ac.lk": {
         "count": 6,
         "projects": {
-            "e20": [
-                {
-                    "title": "SinhSafe",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/SinhSafe/",
-                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-SinhSafe",
-                    "page_url": "https://cepdnaclk.github.io/e20-4yp-SinhSafe",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/SinhSafe/"
-                }
-            ],
             "e19": [
                 {
                     "title": "Integrating Neuro Symbolic AI for Pneumonia Diagnosis from Chest X trays",
@@ -3738,6 +3752,21 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting/"
+                }
+            ],
+            "e20": [
+                {
+                    "title": "SinhSafe",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/SinhSafe/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-SinhSafe",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-SinhSafe",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/SinhSafe/"
                 }
             ],
             "e16": [
@@ -3891,21 +3920,6 @@
     "supunj@eng.pdn.ac.lk": {
         "count": 2,
         "projects": {
-            "e20": [
-                {
-                    "title": "AI Enabled Digital Twin for Crack Evolution in Concrete Beams ",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-/",
-                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-",
-                    "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-/"
-                }
-            ],
             "e19": [
                 {
                     "title": "Detection of Biological Chemical Degradation on Concrete Structures Using Computer Vision",
@@ -3919,6 +3933,21 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision/"
+                }
+            ],
+            "e20": [
+                {
+                    "title": "AI Enabled Digital Twin for Crack Evolution in Concrete Beams ",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-/"
                 }
             ]
         }
@@ -4132,6 +4161,34 @@
     "upuljm@eng.pdn.ac.lk": {
         "count": 19,
         "projects": {
+            "e19": [
+                {
+                    "title": "AI Driven Renal Care Management for Hospitals in Sri Lanka",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka/"
+                },
+                {
+                    "title": "NursingVR WoundCareAI",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/NursingVR-WoundCareAI/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-NursingVR-WoundCareAI",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-NursingVR-WoundCareAI",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/NursingVR-WoundCareAI/"
+                }
+            ],
             "e20": [
                 {
                     "title": "AI Enabled Digital Twin for Crack Evolution in Concrete Beams ",
@@ -4236,34 +4293,6 @@
                     "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
-                }
-            ],
-            "e19": [
-                {
-                    "title": "AI Driven Renal Care Management for Hospitals in Sri Lanka",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka/",
-                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka",
-                    "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka/"
-                },
-                {
-                    "title": "NursingVR WoundCareAI",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/NursingVR-WoundCareAI/",
-                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-NursingVR-WoundCareAI",
-                    "page_url": "https://cepdnaclk.github.io/e19-4yp-NursingVR-WoundCareAI",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/NursingVR-WoundCareAI/"
                 }
             ],
             "e16": [
@@ -4534,21 +4563,6 @@
     "yasodhav@eng.pdn.ac.lk": {
         "count": 5,
         "projects": {
-            "e20": [
-                {
-                    "title": "AI legal chain resolver II",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-legal-chain-resolver-II/",
-                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
-                    "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
-                    "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
-                }
-            ],
             "e19": [
                 {
                     "title": "Detection of Biological Chemical Degradation on Concrete Structures Using Computer Vision",
@@ -4575,6 +4589,21 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-NursingVR-WoundCareAI",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/NursingVR-WoundCareAI/"
+                }
+            ],
+            "e20": [
+                {
+                    "title": "AI legal chain resolver II",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-legal-chain-resolver-II/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
+                    "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
                 }
             ],
             "e18": [
