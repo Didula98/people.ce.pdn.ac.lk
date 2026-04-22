@@ -23336,6 +23336,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Syncro/"
         }
     ],
+    "E/22/054": [
+        {
+            "title": "AI Smart Assistant",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/AI-Smart-Assistant/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-AI-Smart-Assistant",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-AI-Smart-Assistant",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Smart-Assistant/"
+        }
+    ],
     "E/22/056": [
         {
             "title": "OrthoPAR Web Platform",
@@ -23707,6 +23722,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/DMS/"
         }
     ],
+    "E/22/179": [
+        {
+            "title": "AI Smart Assistant",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/AI-Smart-Assistant/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-AI-Smart-Assistant",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-AI-Smart-Assistant",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Smart-Assistant/"
+        }
+    ],
     "E/22/180": [
         {
             "title": "AI Integrated Ecommerce Platform",
@@ -23765,6 +23795,21 @@
             "page_url": "https://cepdnaclk.github.io/e22-co2060-floodguard",
             "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-floodguard/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/floodguard/"
+        }
+    ],
+    "E/22/205": [
+        {
+            "title": "AI Smart Assistant",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/AI-Smart-Assistant/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-AI-Smart-Assistant",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-AI-Smart-Assistant",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Smart-Assistant/"
         }
     ],
     "E/22/211": [
@@ -24106,6 +24151,21 @@
             "page_url": "https://cepdnaclk.github.io/e22-co2060-floodguard",
             "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-floodguard/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/floodguard/"
+        }
+    ],
+    "E/22/378": [
+        {
+            "title": "AI Smart Assistant",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/AI-Smart-Assistant/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-AI-Smart-Assistant",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-AI-Smart-Assistant",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Smart-Assistant/"
         }
     ],
     "E/22/381": [
