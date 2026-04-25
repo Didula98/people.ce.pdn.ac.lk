@@ -1552,6 +1552,26 @@
             ]
         }
     },
+    "isurid@eng.pdn.ac.lk": {
+        "count": 1,
+        "projects": {
+            "e20": [
+                {
+                    "title": "symbolic music generation with xLSTM",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/symbolic-music-generation-with-xLSTM/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-symbolic-music-generation-with-xLSTM",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-symbolic-music-generation-with-xLSTM",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/symbolic-music-generation-with-xLSTM/"
+                }
+            ]
+        }
+    },
     "isurud@ee.pdn.ac.lk": {
         "count": 2,
         "projects": {
@@ -1612,7 +1632,7 @@
         "projects": {}
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "count": 34,
+        "count": 35,
         "projects": {
             "e19": [
                 {
@@ -1746,6 +1766,19 @@
                     "page_url": "https://cepdnaclk.github.io/e20-4yp-ai-atrial-fib-detection",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ai-atrial-fib-detection/"
+                },
+                {
+                    "title": "symbolic music generation with xLSTM",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/symbolic-music-generation-with-xLSTM/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-symbolic-music-generation-with-xLSTM",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-symbolic-music-generation-with-xLSTM",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/symbolic-music-generation-with-xLSTM/"
                 },
                 {
                     "title": "voice enabled llm agentic construction scheduler",
